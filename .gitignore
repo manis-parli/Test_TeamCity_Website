@@ -3,6 +3,7 @@
 /Debug/
 /obj/
 /Release/
+/.vs/
 
 # Visual Studio workspace files
 *.user
