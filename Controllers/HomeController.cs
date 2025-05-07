@@ -15,7 +15,7 @@ namespace Test_TeamCity_Website.Controllers
 
         public IActionResult Index()
         {
-            string test = "make changes test again";
+            string test = "make changes test again 2";
             return View();
         }
 
