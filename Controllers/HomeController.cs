@@ -10,7 +10,7 @@ namespace Test_TeamCity_Website.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
-            _logger = logger;
+            _logger = logger1;
         }
 
         public IActionResult Index()
